@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kretzidimar
 - 👀 I’m interested in Rust and embedded programming
-- 🌱 I’m currently planning an studying Computer Science in Berlin
+- 🌱 I’m currently planning to study Computer Science in Berlin
 - 💞️ I’m looking to collaborate on things, that I can be helpfull at.
 
 <!---
